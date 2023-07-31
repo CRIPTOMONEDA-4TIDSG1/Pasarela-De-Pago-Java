@@ -1,2 +1,1 @@
-# Pasarela-De-Pago-Java
-Este repositorio contiene una implementación de una pasarela de pago segura, diseñada para facilitar y asegurar las transacciones electrónicas en aplicaciones web y móviles. 
+# Pasarela-De-Pago-Java Proyecto Esfe Agape practicas modulo 2 de Java EE <img alt="logo_java" src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.jpg"/>
